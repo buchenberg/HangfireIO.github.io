@@ -163,7 +163,7 @@
       author: cady-io
       
     - name: Hangfire.Realm
-      url: https://github.com/gottscj/Hangfire.Realm
+      url: https://github.com/buchenberg/Hangfire.Realm
       author: gottscj
       
     - name: Hangfire.SQLite
